@@ -69,7 +69,7 @@ The AWS Bedrock client is configured using the `~/.ai/model.cfg` file, which is 
 ```json
 {
   "region": "us-east-1",
-  "model_id": "ModelID": "arn:aws:bedrock:us-east-1:AWS_ACCOUNT_ID:inference-profile/us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+  "model_id": "arn:aws:bedrock:us-east-1:AWS_ACCOUNT_ID:inference-profile/us.anthropic.claude-3-7-sonnet-20250219-v1:0",
   "profile": "default",
   "endpoint": ""
 }
