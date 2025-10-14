@@ -25,7 +25,7 @@ AI.go is a Golang-based shell assistant that uses Claude 3.7 Sonnet model to int
 
 1. Clone this repository:
 ```
-git clone https://github.com/nir/ai.go.git
+git clone https://github.com/deepdub-ai/ai.go.git
 cd ai.go
 ```
 
